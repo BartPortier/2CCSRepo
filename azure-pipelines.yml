@@ -20,6 +20,6 @@ steps:
     location: 'West Europe'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/BartPortier/2CCSRepo/main/AzureDeploy.json'
-    overrideParameters: '-projectname 2CCSdemo'
+    overrideParameters: '-projectname 2CCSrepo'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'

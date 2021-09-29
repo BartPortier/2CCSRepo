@@ -19,7 +19,7 @@ steps:
     resourceGroupName: 'AZ2CCS_RG'
     location: 'West Europe'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://raw.githubusercontent.com/BartPortier/2CCSRepo/main/AzureDeploy.json?token=AJPEBP77LW5RBARCI7SGCNDBKQ7UE'
+    csmFileLink: 'https://raw.githubusercontent.com/BartPortier/2CCSRepo/main/AzureDeploy.json'
     overrideParameters: '-projectname 2CCSdemo'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
